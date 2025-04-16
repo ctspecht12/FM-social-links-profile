@@ -25,12 +25,12 @@ Users should be able to:
 ### Screenshot
 
 ![](social-media-links-desktop.png)
-![](social-media-links-mobile.png)
+<img src="social-media-links-mobile.png" width="300px")>
 
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/ctspecht12/FM-social-links-profile)
-- Live Site URL: [Live Site]([https://your-live-site-url.com](https://ctspecht12.github.io/FM-social-links-profile/))
+- Live Site URL: [Live Site](https://ctspecht12.github.io/FM-social-links-profile/)
 
 ## My process
 
