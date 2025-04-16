@@ -25,7 +25,7 @@ Users should be able to:
 ### Screenshot
 
 ![](social-media-links-desktop.png)
-<img src="social-media-links-mobile.png" width="300px")>
+<img src="social-media-links-mobile.png" alt="My Image" width="300">
 
 ### Links
 
@@ -44,14 +44,8 @@ I haven't worked a lot with buttons, so I learned how to create buttons with URL
 by using the onclick="location.href..." function:
 
 ````
-<button
-          class="button"
-          onclick="location.href='https://frontendmentor.io.com'"
-          type="button"
-        >
-          Frontend Mentor
-        </button>
-        ```
+<button class="button" onclick="location.href='https://frontendmentor.io.com'" type="button">Frontend Mentor</button>
+````
 
 ### Continued development
 
@@ -61,4 +55,4 @@ I want to continue to learn about button functions and move into javascript more
 ## Author
 - Frontend Mentor - [@ctspecht12](https://www.frontendmentor.io/profile/ctspecht12)
 
-````
+
