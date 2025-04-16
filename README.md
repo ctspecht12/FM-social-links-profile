@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ctspecht12/FM-social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Repository](https://github.com/ctspecht12/FM-social-links-profile)
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://ctspecht12.github.io/FM-social-links-profile/))
 
 ## My process
 
